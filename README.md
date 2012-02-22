@@ -22,10 +22,11 @@ Structure as of 2/22/12
 `-- 2
     |-- 1
     |   |-- InsertionSort
-    |   |
     |   `-- Search
     |       |-- BinarySearch
     |       `-- LinearSearch
-    `-- 2
-        `-- SelectionSort
+    |-- 2
+    |   `-- SelectionSort
+    `-- 3
+        `-- Merge
 ```
