@@ -16,7 +16,7 @@ Third directory is the project.
 Any of the projects can be tested by running sbt test.  
 
 Structure as of 2/22/12  
-
+```
 .
 `-- 2
     |-- 1
@@ -27,3 +27,4 @@ Structure as of 2/22/12
     |       `-- LinearSearch
     `-- 2
         `-- SelectionSort
+```
