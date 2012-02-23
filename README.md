@@ -18,6 +18,7 @@ Any of the projects can be tested by running sbt test.
 Structure as of 2/22/12  
 
 ```.
+.
 `-- 2
     |-- 1
     |   |-- InsertionSort
@@ -31,5 +32,7 @@ Structure as of 2/22/12
     |   |-- MergeSort
     |   `-- SumExact
     `-- Hard
-        `-- Inversions
+        |-- BubbleSort
+        |-- Inversions
+        `-- Polynomials
 ```
