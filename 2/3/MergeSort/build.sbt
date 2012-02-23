@@ -1,6 +1,8 @@
 name := "MergeSort"
 
-version := "1.0"
+organization := "org.naka"
+
+version := "1.0-SNAPSHOT"
 
 scalaVersion := "2.9.1"
 

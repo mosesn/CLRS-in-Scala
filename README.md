@@ -28,5 +28,7 @@ Structure as of 2/22/12
     |-- 2
     |   `-- SelectionSort
     `-- 3
-        `-- Merge
+        |-- Merge
+        |-- MergeSort
+        `-- SumExact
 ```
