@@ -19,20 +19,27 @@ Structure as of 2/22/12
 
 ```.
 .
-`-- 2
-    |-- 1
-    |   |-- InsertionSort
-    |   `-- Search
-    |       |-- BinarySearch
-    |       `-- LinearSearch
-    |-- 2
-    |   `-- SelectionSort
-    |-- 3
-    |   |-- Merge
-    |   |-- MergeSort
-    |   `-- SumExact
-    `-- Hard
-        |-- BubbleSort
-        |-- Inversions
-        `-- Polynomials
+|-- 2
+|   |-- 1
+|   |   |-- InsertionSort
+|   |   `-- Search
+|   |       |-- BinarySearch
+|   |       `-- LinearSearch
+|   |-- 2
+|   |   `-- SelectionSort
+|   |-- 3
+|   |   |-- Merge
+|   |   |-- MergeSort
+|   |   `-- SumExact
+|   `-- Hard
+|       |-- BubbleSort
+|       |-- Inversions
+|       `-- Polynomials
+`-- 4
+    `-- 1
+        `-- MaximumSubarray
+            |-- BruteForce
+            |-- DivideAndConquer
+            |-- LinearOnePass
+            `-- LinearThreePass
 ```
