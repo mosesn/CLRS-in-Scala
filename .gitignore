@@ -3,3 +3,7 @@
 *.class
 target/
 .ensime
+.cache
+.project
+.settings
+.classpath
