@@ -9,9 +9,6 @@ I should grow as Moses reworks his way through CLRS, implementing stuff this tim
 [Moses](http://github.com/mnn2104) wants to learn algorithms, and also Scala!
 
 ##Next Steps
-Chip Testing  
-Monge Arrays (109)  
-Read proof on master method + do problems
 
 ##Organizational Structure
 First directory is the chapter.  
@@ -22,7 +19,7 @@ Any of the projects can be tested by running sbt test.
 
 Structure as of 3/2/12  
 
-```
+<pre>
 .
 |-- 2
 |   |-- 1
@@ -40,14 +37,17 @@ Structure as of 3/2/12
 |       |-- BubbleSort
 |       |-- Inversions
 |       `-- Polynomials
-`-- 4
-    |-- 1
-    |   `-- MaximumSubarray
-    |       |-- BruteForce
-    |       |-- DivideAndConquer
-    |       |-- LinearOnePass
-    |       `-- LinearThreePass
-    `-- 2
-        |-- SquareNaiveMatrix
-        `-- Strassen
-```
+|-- 4
+|   |-- 1
+|   |   `-- MaximumSubarray
+|   |       |-- BruteForce
+|   |       |-- DivideAndConquer
+|   |       |-- LinearOnePass
+|   |       `-- LinearThreePass
+|   `-- 2
+|       |-- SquareNaiveMatrix
+|       `-- Strassen
+`-- 5
+    `-- 3
+        `-- Shuffle
+</pre>
