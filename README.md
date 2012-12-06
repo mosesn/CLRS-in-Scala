@@ -6,7 +6,7 @@ I am a collection of algorithms, implemented in Scala.
 I should grow as Moses reworks his way through CLRS, implementing stuff this time.
 
 ##Why are you?
-[Moses](http://github.com/mnn2104) wants to learn algorithms, and also Scala!
+[Moses](http://github.com/mosesn) wants to learn algorithms, and also Scala!
 
 ##Next Steps
 
